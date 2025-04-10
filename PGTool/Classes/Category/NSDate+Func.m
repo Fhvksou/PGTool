@@ -2,7 +2,7 @@
 //  NSDate+Func.m
 //  OTM
 //
-//  Created by 倪超杰 on 2023/11/8.
+//  Created by Fhvksou on 2023/11/8.
 //
 
 #import "NSDate+Func.h"

@@ -2,7 +2,7 @@
 //  NSString+Size.m
 //  OTM
 //
-//  Created by 倪超杰 on 2023/9/1.
+//  Created by Fhvksou on 2023/9/1.
 //
 
 #import "NSString+Size.h"

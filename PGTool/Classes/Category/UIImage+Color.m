@@ -2,7 +2,7 @@
 //  UIImage+Color.m
 //  OTM
 //
-//  Created by 倪超杰 on 2023/12/14.
+//  Created by Fhvksou on 2023/12/14.
 //
 
 #import "UIImage+Color.h"

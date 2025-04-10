@@ -4,10 +4,11 @@ platform :ios, '10.0'
 
 target 'PGTool_Example' do
   pod 'PGTool', :path => '../'
-
+#  pod 'SVGKit'
+#  pod 'FMDB'
+#  pod 'MJExtension'
+  
   target 'PGTool_Tests' do
     inherit! :search_paths
-
-    
   end
 end

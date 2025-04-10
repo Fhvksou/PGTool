@@ -26,4 +26,7 @@ Fhvksou, 497001857@qq.com
 
 ## License
 
+个人自用分类以及一些工具整理。。。
+
+
 PGTool is available under the MIT license. See the LICENSE file for more info.
